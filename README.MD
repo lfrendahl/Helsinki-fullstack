@@ -1,3 +1,3 @@
 # Fullstack Follow Along From Helsinki University
 
-## So far the code reflects lesson 3
+## Tge code reflects lesson 3
